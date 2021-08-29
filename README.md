@@ -1,4 +1,4 @@
-# aws_terraform_ebs
+# AWS terraform EBS
 Terraform code to create EBS resource 
 
 - This code have been tested to create EBS volume of a given size
