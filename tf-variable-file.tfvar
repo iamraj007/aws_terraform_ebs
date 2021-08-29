@@ -1,0 +1,10 @@
+# Sample variable input file
+region = "us-east-1"
+region_az = "us-east-1a"
+ebs_size = 50
+encrypton = "false"
+env = "DEV"
+ebs_type = "gp2"
+iops = 16000 
+ec2_instance_id = "i-0xxxxxxxxxxxxxxxxxxxxxxx"
+ebs_disk_count = 2
