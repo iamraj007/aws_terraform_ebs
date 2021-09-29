@@ -1,3 +1,4 @@
+# ![GitHub language count](https://img.shields.io/github/languages/count/iamraj007/aws_terraform_ebs?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamraj007/aws_terraform_ebs?style=for-the-badge) 
 # AWS terraform EBS
 Terraform code to create EBS resource 
 
